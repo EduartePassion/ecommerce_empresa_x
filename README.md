@@ -49,7 +49,7 @@ contribuidor principal: https://www.github.com/EduartePassion
 
 ## código da função soma
 
-'''javascript
+''' javascript
 function soma(a,b){
     return a + b
 }
