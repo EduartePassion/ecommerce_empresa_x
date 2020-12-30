@@ -44,3 +44,5 @@ _Melhoria 1_, _melhoria_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 contribuidor principal: https://www.github.com/EduartePassion
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/EduartePassion)
